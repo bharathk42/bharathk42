@@ -14,11 +14,11 @@
 
 ## Toolbox
 
-**Tag management:** Google Tag Manager · Adobe Experience Platform Tags · Tealium iQ · Server-side tagging
-**Analytics:** GA4 / GA 360 · Adobe Analytics · Customer Journey Analytics · Quantum Metric
-**Ad platforms:** Google Ads Conversion Tracking · Meta CAPI · Invoca
-**CDP & data:** Salesforce Data Cloud · Adobe Real-Time CDP · SQL · Python · Snowflake · Databricks
-**Viz & QA:** Tableau · Power BI · Looker Studio · ObservePoint · Chrome DevTools
+- **Tag management:** Google Tag Manager · Adobe Experience Platform Tags · Tealium iQ · Server-side tagging
+- **Analytics:** GA4 / GA 360 · Adobe Analytics · Customer Journey Analytics · Quantum Metric
+- **Ad platforms:** Google Ads Conversion Tracking · Meta CAPI · Invoca
+- **CDP & data:** Salesforce Data Cloud · Adobe Real-Time CDP · SQL · Python · Snowflake · Databricks
+- **Viz & QA:** Tableau · Power BI · Looker Studio · ObservePoint · Chrome DevTools
 
 ## Projects
 
